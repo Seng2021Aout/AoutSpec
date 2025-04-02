@@ -1,7 +1,7 @@
 # Integrated Digital Trade
 
 ## Project Info
-Team: Aout F18A__
+Team: Aout F18A<br/>
 This is a guide for using our API through swagger [https://app.swaggerhub.com/apis-docs/JustinLi-357/Aout/1.0.0#/user%20end/getHealth](https://app.swaggerhub.com/apis-docs/JustinLi-357/Aout/1.0.0#/)
 
 ## API overview
@@ -32,9 +32,9 @@ GET /health
 ```
 
 ## Guide for testing
-We strongly recommend testing from this order__
-System Status --> Despatch Advice Management --> Authentication and User Management(Optional)__
-All the request body example is prefilled in Swagger doc you feel free to change it__
-__
+We strongly recommend testing from this order<br/>
+System Status --> Despatch Advice Management --> Authentication and User Management(Optional)<br/>
+All the request body example is prefilled in Swagger doc you feel free to change it<br/>
+<br/>
 Feel free to message me in Discord(m1ple) if you have any question
 
